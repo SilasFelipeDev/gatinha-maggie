@@ -1,0 +1,25 @@
+.maggie {
+  width: 100%;
+  text-align: center;
+  margin: 60px 0;
+}
+
+.maggie h2 {
+  color: #37f0b8;
+  font-size: 40px;
+}
+
+.banner {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.banner img {
+  width: 300px;
+  height: auto;
+  border-radius: 20px;
+  margin-right: 10px;
+}
